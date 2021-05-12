@@ -6,7 +6,7 @@ public class OffsetScrolling : MonoBehaviour
 {
     public float scrollSpeed;
 
-    private Renderer renderer;
+    new private Renderer renderer;
     private Vector2 savedOffset;
 
     void Start()
