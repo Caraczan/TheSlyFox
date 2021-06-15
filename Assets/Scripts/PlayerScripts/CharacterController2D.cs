@@ -31,6 +31,7 @@ public class CharacterController2D : MonoBehaviour
 	private bool m_wasCrouching = false;
 
 	private bool canDoubleJump;
+	public bool isFallingAfterDJ;
 
 	private void Awake()
 	{
