@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8509565035988581610}
   - component: {fileID: 8509565035988581611}
+  - component: {fileID: 5519190197980398908}
   m_Layer: 0
   m_Name: LevelManager
   m_TagString: Untagged
@@ -47,3 +48,18 @@ MonoBehaviour:
   respawnPoint: {fileID: 0}
   playerPrefab: {fileID: 9212846040648114198, guid: 20c51df28d5c9fd85bfb858e885225e4,
     type: 3}
+--- !u!114 &5519190197980398908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8509565035988581608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4914c52923e68a4389afada19ce0c49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  s_counter: 0
+  countingUp: 1
+  timerIsRunning: 0
