@@ -18,11 +18,13 @@ Repozytorium projektu zajeć Programowania Zespołowego
 - [ ] pausemenu
 	- [x] działa
 	- [ ] implementacja w nowych mapach     
+- [ ] liczenie czasu / poziom na ograniczony czas
+	- [x] licznik czasu działa
+	- [ ] potrzeban implementacja graficzna
 - [x] przeciwnicy
 - [ ] wyświetlanie poziomu
 - [ ] życia(częściowo działa, potrzebna implementacja)
 - [ ] punktacja
-- [ ] liczenie czasu / poziom na ograniczony czas
 - [ ] znajdźki / monety
 - [ ] stworzyć scene końca gry po ostatnim poziomie
 - [ ] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu 
