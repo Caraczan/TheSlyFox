@@ -15,9 +15,9 @@ Repozytorium projektu zajeć Programowania Zespołowego
 		- [x] dźwięki
 		- [ ] zmiana sterowania
 	- [x] wychodzenie z gry
-- [ ] pausemenu
+- [x] pausemenu
 	- [x] działa
-	- [ ] implementacja w nowych mapach     
+	- [x] implementacja w nowych mapach
 - [x] liczenie czasu / poziom na ograniczony czas
 	- [x] licznik czasu działa
 	- [x] potrzebna implementacja graficzna
