@@ -18,9 +18,9 @@ Repozytorium projektu zajeć Programowania Zespołowego
 - [ ] pausemenu
 	- [x] działa
 	- [ ] implementacja w nowych mapach     
-- [ ] liczenie czasu / poziom na ograniczony czas
+- [x] liczenie czasu / poziom na ograniczony czas
 	- [x] licznik czasu działa
-	- [ ] potrzeban implementacja graficzna
+	- [x] potrzebna implementacja graficzna
 - [x] przeciwnicy
 - [ ] wyświetlanie poziomu
 - [ ] życia(częściowo działa, potrzebna implementacja)
