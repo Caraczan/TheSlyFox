@@ -22,7 +22,7 @@ Repozytorium projektu zajeć Programowania Zespołowego
 	- [x] licznik czasu działa
 	- [x] potrzebna implementacja graficzna
 - [x] przeciwnicy
-- [ ] wyświetlanie poziomu
+- [x] wyświetlanie poziomu
 - [ ] życia(częściowo działa, potrzebna implementacja)
 - [ ] punktacja
 - [ ] znajdźki / monety
