@@ -31,6 +31,7 @@ public class CharacterController2D : MonoBehaviour
 	private bool m_wasCrouching = false;
 
 	private bool canDoubleJump;
+	public float doubleJumpForce = .5f;
 
 	private void Awake()
 	{
@@ -142,7 +143,7 @@ public class CharacterController2D : MonoBehaviour
 			m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
 		} else if (jump){
 			if (canDoubleJump){
-				m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce*.5f));
+				m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce*doubleJumpForce));
 				canDoubleJump = false;
 			}
 		}
