@@ -16,11 +16,13 @@ public class Health : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       if(dead == true)
+        if (dead == true)
         {
             //gameover scene
-           // Debug.Log("GAME OVER");
+            // Debug.Log("GAME OVER");
+
         }
+   
     }
 
     public void TakeDamage(int dam)
@@ -33,6 +35,22 @@ public class Health : MonoBehaviour
             {
                 dead = true;
             }
+        }
+    }
+
+    void OnCollisionEnter2D(Collision2D col)
+    {
+        if (col.gameObject.CompareTag("Abyss"))
+        {
+            TakeDamage(1);
+        }
+    }
+
+    public void OnCollisionEnter(Collision col)
+    {
+        if (col.gameObject.CompareTag("s"))
+        {
+            TakeDamage(1);
         }
     }
 }
