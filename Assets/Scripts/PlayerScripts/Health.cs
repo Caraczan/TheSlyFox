@@ -45,4 +45,12 @@ public class Health : MonoBehaviour
             TakeDamage(1);
         }
     }
+
+    public void OnCollisionEnter(Collision col)
+    {
+        if (col.gameObject.CompareTag("s"))
+        {
+            TakeDamage(1);
+        }
+    }
 }

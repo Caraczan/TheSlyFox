@@ -579,7 +579,7 @@ GameObject:
   - component: {fileID: 207976253}
   - component: {fileID: 207976252}
   m_Layer: 0
-  m_Name: spikes (3)
+  m_Name: spikes3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11091,7 +11091,7 @@ GameObject:
   - component: {fileID: 671710578}
   - component: {fileID: 671710577}
   m_Layer: 0
-  m_Name: spikes (2)
+  m_Name: spikes2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13808,7 +13808,7 @@ GameObject:
   - component: {fileID: 1461297256}
   - component: {fileID: 1461297255}
   m_Layer: 0
-  m_Name: spikes (1)
+  m_Name: spikes1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
