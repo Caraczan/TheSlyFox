@@ -15,14 +15,14 @@ Repozytorium projektu zajeć Programowania Zespołowego
 		- [x] dźwięki
 		- [ ] zmiana sterowania
 	- [x] wychodzenie z gry
-- [ ] pausemenu
+- [x] pausemenu
 	- [x] działa
-	- [ ] implementacja w nowych mapach     
-- [ ] liczenie czasu / poziom na ograniczony czas
+	- [x] implementacja w nowych mapach
+- [x] liczenie czasu / poziom na ograniczony czas
 	- [x] licznik czasu działa
-	- [ ] potrzeban implementacja graficzna
+	- [x] potrzebna implementacja graficzna
 - [x] przeciwnicy
-- [ ] wyświetlanie poziomu
+- [x] wyświetlanie poziomu
 - [ ] życia(częściowo działa, potrzebna implementacja)
 - [ ] punktacja
 - [ ] znajdźki / monety
