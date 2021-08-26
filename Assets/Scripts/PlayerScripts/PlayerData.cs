@@ -1,5 +1,7 @@
+using System.Collections;
+
 namespace PlayerScripts {
-    public class PlayerData {
-        
+    public static class PlayerData {
+        public static Hashtable player_level_time_completion = new Hashtable();
     }
 }

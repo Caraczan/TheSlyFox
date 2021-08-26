@@ -49,7 +49,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ffd12ab3e46a234089e1658960ed8f13, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  abyss: {fileID: 5275645585160536685}
+  abyss: {fileID: 0}
   respawn_point: {fileID: 5254257736905999095}
   player_prefab: {fileID: 9212846042512307246}
   scene_text: {fileID: 1487693852}

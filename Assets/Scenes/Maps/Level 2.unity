@@ -42043,10 +42043,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1487693852, guid: f5ca60f2293064c3f8b902b1458ea5b7, type: 3}
-      propertyPath: m_Text
-      value: 
-      objectReference: {fileID: 0}
     - target: {fileID: 8509565035988581608, guid: f5ca60f2293064c3f8b902b1458ea5b7,
         type: 3}
       propertyPath: m_Name
@@ -42106,16 +42102,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8509565035988581611, guid: f5ca60f2293064c3f8b902b1458ea5b7,
-        type: 3}
-      propertyPath: abyss
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 8509565035988581611, guid: f5ca60f2293064c3f8b902b1458ea5b7,
-        type: 3}
-      propertyPath: respawnPoint
-      value: 
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5ca60f2293064c3f8b902b1458ea5b7, type: 3}
