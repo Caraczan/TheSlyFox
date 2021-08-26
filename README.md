@@ -8,7 +8,7 @@ Repozytorium projektu zajeć Programowania Zespołowego
 - [x] przciwnicy    
 - [x] menu
 	- [x] nowa gra
-	- [ ] zapis/odczyt
+	~~- [ ] zapis/odczyt~~
 	- [ ] opcje
 		- [x] zmiana rozdzielczości(nie działa na Linuksie)
 		- [x] fullscreen/windowed
