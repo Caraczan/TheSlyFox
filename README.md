@@ -8,7 +8,7 @@ Repozytorium projektu zajeć Programowania Zespołowego
 - [x] przciwnicy    
 - [x] menu
 	- [x] nowa gra
-	~~- [ ] zapis/odczyt~~
+	- [ ] ~~zapis/odczyt~~
 	- [ ] opcje
 		- [x] zmiana rozdzielczości(nie działa na Linuksie)
 		- [x] fullscreen/windowed
@@ -23,10 +23,10 @@ Repozytorium projektu zajeć Programowania Zespołowego
 	- [x] potrzebna implementacja graficzna
 - [x] przeciwnicy
 - [x] wyświetlanie poziomu
-- [ ] życia(częściowo działa, potrzebna implementacja)
+- [x] życia(częściowo działa, potrzebna implementacja)
 - [ ] punktacja
 - [ ] znajdźki / monety
-- [ ] stworzyć scene końca gry po ostatnim poziomie
-- [ ] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu 
+- [ ] stworzyć scene końca gry po ostatnim poziomie (częściowo dodane)
+- [ ] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu (częściowo dodane)
 - [ ] poprawić błędy z migotaniem tła
 - [ ] umieszczenie na mapie przeciwników
