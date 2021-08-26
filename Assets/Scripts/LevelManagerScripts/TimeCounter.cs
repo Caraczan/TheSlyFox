@@ -70,7 +70,6 @@ public class TimeCounter : MonoBehaviour {
 
 		string timeText = string.Format("{3:00}:{0:00}:{1:00}:{2:000}",minutes,seconds,milliSeconds,hour);
 		
-
 		//TODO Display "timeText" in game
 		Debug.Log(timeText);
 	}
