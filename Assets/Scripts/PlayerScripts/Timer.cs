@@ -19,6 +19,11 @@ public class Timer : MonoBehaviour
         startTime += Time.deltaTime;
         // timerText.text = startTime.ToString("f2");
         timerText.text = (((Mathf.Floor(startTime / 60f)) % 60).ToString("00"))
-             + ":" + (Mathf.Floor(startTime % 60f).ToString("00"));
+                + ":" + (Mathf.Floor(startTime % 60f).ToString("00"))
+             + ":" + (((((startTime % 1f)) * 1000).ToString("00")));
+
+        PlayerPrefs.SetString("Times", "00");
+        PlayerPrefs.Save();
     }
+
 }

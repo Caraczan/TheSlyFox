@@ -1,9 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
+    //public GameManager manager;
     public GameObject[] hearts; //[0] [1] [2]
     private int life; //3
     private bool dead;
@@ -18,8 +21,8 @@ public class Health : MonoBehaviour
     {
         if (dead == true)
         {
-            //gameover scene
-            // Debug.Log("GAME OVER");
+            SceneManager.LoadScene("DeadScene");
+           // Debug.Log("GAME OVER");
 
         }
    
@@ -46,11 +49,11 @@ public class Health : MonoBehaviour
         }
     }
 
-    public void OnCollisionEnter(Collision col)
+   /* public void OnCollisionEnter(Collision col)
     {
-        if (col.gameObject.CompareTag("s"))
+        if (col.gameObject.CompareTag("spikes"))
         {
             TakeDamage(1);
         }
-    }
+    }*/
 }
