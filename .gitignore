@@ -73,3 +73,8 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 .collabignore
+
+# ignore files that are leftovers from unity smart merging and beyond compare merging
+*.orig
+*.orig.meta
+
