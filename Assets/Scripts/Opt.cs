@@ -9,7 +9,11 @@ public class Opt : MonoBehaviour
     {
         SceneManager.LoadScene("Level 1");
     }
-   
+
+    public void RestartGame()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name); // loads current scene
+    }
 
 
 }
