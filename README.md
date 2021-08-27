@@ -15,18 +15,18 @@ Repozytorium projektu zajeć Programowania Zespołowego
 		- [x] dźwięki
 		- [ ] zmiana sterowania
 	- [x] wychodzenie z gry
-- [ ] pausemenu
+- [x] pausemenu
 	- [x] działa
-	- [ ] implementacja w nowych mapach     
-- [ ] liczenie czasu / poziom na ograniczony czas
+	- [x] implementacja w nowych mapach
+- [x] liczenie czasu / poziom na ograniczony czas
 	- [x] licznik czasu działa
-	- [ ] potrzeban implementacja graficzna
+	- [x] potrzebna implementacja graficzna
 - [x] przeciwnicy
-- [ ] wyświetlanie poziomu
-- [ ] życia(częściowo działa, potrzebna implementacja)
+- [x] wyświetlanie poziomu
+- [x] życia(częściowo działa, potrzebna implementacja)
 - [ ] punktacja
 - [ ] znajdźki / monety
-- [ ] stworzyć scene końca gry po ostatnim poziomie
-- [ ] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu 
+- [ ] stworzyć scene końca gry po ostatnim poziomie (częściowo dodane)
+- [ ] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu (częściowo dodane)
 - [ ] poprawić błędy z migotaniem tła
 - [ ] umieszczenie na mapie przeciwników

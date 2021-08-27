@@ -17,7 +17,7 @@ public class TimeCounter : MonoBehaviour {
 
 
 	void Start() {
-		Debug.Log("Strart timer");
+		Debug.Log("Start timer");
 		timerIsRunning = true;
 
 		if(countingUp) {
@@ -69,9 +69,8 @@ public class TimeCounter : MonoBehaviour {
 		float hour = Mathf.Floor(timeToDisplay/3600);
 
 		string timeText = string.Format("{3:00}:{0:00}:{1:00}:{2:000}",minutes,seconds,milliSeconds,hour);
-
-
+		
 		//TODO Display "timeText" in game
-		Debug.Log(timeText);
+		// Debug.Log(timeText);
 	}
 }
