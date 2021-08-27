@@ -18,6 +18,7 @@ public class CharacterController2D : MonoBehaviour
 	private Rigidbody2D m_Rigidbody2D;
 	private bool m_FacingRight = true;  // For determining which way the player is currently facing.
 	private Vector3 m_Velocity = Vector3.zero;
+	public int cherries = 0;
 
 	[Header("Events")]
 	[Space]
@@ -44,6 +45,15 @@ public class CharacterController2D : MonoBehaviour
 			OnCrouchEvent = new BoolEvent();
 	}
 
+	private void OnTriggerEnter2D(Collider2D collision)
+	{
+		if(collision.tag == "Collectible")
+		{
+			Destroy(collision.gameObject);
+			cherries += 1;
+		}
+	}
+
 	private void FixedUpdate()
 	{
 		bool wasGrounded = m_Grounded;
@@ -62,7 +72,6 @@ public class CharacterController2D : MonoBehaviour
 			}
 		}
 	}
-
 
 	public void Move(float move, bool crouch, bool jump)
 	{

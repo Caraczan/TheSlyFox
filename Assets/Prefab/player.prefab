@@ -77,7 +77,7 @@ GameObject:
   - component: {fileID: 8939617423331397911}
   - component: {fileID: 8939617423331397910}
   m_Layer: 8
-  m_Name: player2
+  m_Name: player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -266,7 +266,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   controller: {fileID: 8939617423331397930}
   animator: {fileID: 8939617423331397910}
-  runSpeed: 13
+  runSpeed: 50
 --- !u!95 &8939617423331397910
 Animator:
   serializedVersion: 3
