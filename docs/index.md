@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Witam na stronie projekty zespołu BitByBit
 
-You can use the [editor on GitHub](https://github.com/Caraczan/ProgramowanieZespolowe/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Dynamiczna gra w której liczy się prędkość. Bądź pierwszy i pokaż co potrafisz. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Technologie użyte
 
-### Markdown
+### [Unity](https://unity.com/)
+![Unity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/264px-Unity_Technologies_logo.svg.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Silnik oraz edytor do gier 2D,3D i scen z dużą ilością przydatnych narzędzi.
 
-```markdown
-Syntax highlighted code block
+### [Jira](https://www.atlassian.com/software/jira)
+![jira](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jira_Software%402x-blue.png/375px-Jira_Software%402x-blue.png)
 
-# Header 1
-## Header 2
-### Header 3
+Tablica śledzenia postępu w zadaniach.
 
-- Bulleted
-- List
+### [Github](https://github.com/)
+![Github](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/GitHub_logo_2013.svg/356px-GitHub_logo_2013.svg.png)
 
-1. Numbered
-2. List
+Strona hostująca repozytorium projektu, najpoppularniejsza na świecie zbiór repozytoriów.
 
-**Bold** and _Italic_ and `Code` text
+### [Slack](https://slack.com/intl/en-pl/)
+![Slack](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/330px-Slack_Technologies_Logo.svg.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Caraczan/ProgramowanieZespolowe/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Najpopularniejszy komunikator dla zespołów deweloperskich.
