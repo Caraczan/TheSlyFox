@@ -1,6 +1,8 @@
-## Witam na stronie projekty zespołu BitByBit
+## The Sly Fox
 
-Dynamiczna gra w której liczy się prędkość. Bądź pierwszy i pokaż co potrafisz. 
+Ucieknij biegnąc przez ogród. 
+Nie daj się złapać.
+Zrób to jak najszybciej i pochwal się znajomym.
 
 ## Technologie użyte
 
