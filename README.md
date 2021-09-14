@@ -26,7 +26,7 @@ Repozytorium projektu zajeć Programowania Zespołowego
 - [x] życia
 - [ ] punktacja
 - [x] znajdźki / monety
-- [.] stworzyć scene końca gry po ostatnim poziomie (częściowo dodane)
-- [.] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu (częściowo dodane)
+- [x] stworzyć scene końca gry po ostatnim poziomie (częściowo dodane)
+- [x] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu (częściowo dodane)
 - [ ] poprawić błędy z migotaniem tła
 - [ ] umieszczenie na mapie przeciwników
