@@ -3210,6 +3210,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 41
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &832028987 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1722123456, guid: f5ca60f2293064c3f8b902b1458ea5b7,
+    type: 3}
+  m_PrefabInstance: {fileID: 1047861307}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &840104577
 GameObject:
   m_ObjectHideFlags: 0
@@ -58891,7 +58897,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd7972fa3a564fb478ae5d9a06994f3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cam: {fileID: 0}
+  cam: {fileID: 832028987}
   parallaxEffect: 0.1
 --- !u!212 &1896812032
 SpriteRenderer:
