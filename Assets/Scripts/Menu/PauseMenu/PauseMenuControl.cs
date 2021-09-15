@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class pauseMenu : PauseMenuS
+public class PauseMenuControl : PauseMenuS
 {
     
     public void ResumeGame()
