@@ -37,16 +37,20 @@ Najpopularniejszy komunikator dla zespołów deweloperskich.
 ![fox](https://user-images.githubusercontent.com/45484392/133621613-4885d7cc-298d-4dda-a3f4-c9c6668ebf3b.png)
 
 
-## Główne Menu
+## Główne Menu i Menu pauzy
+![glowne menu](https://user-images.githubusercontent.com/39299737/133623845-c1664ce8-9bdb-422f-ad63-3e8ba58e34fe.png)
+![pauze menu1](https://user-images.githubusercontent.com/39299737/133623883-6b885587-bbe9-4a87-8618-04bf27f4f034.png)
+![pauze menu2](https://user-images.githubusercontent.com/39299737/133623896-ac8f2e98-0f35-42e3-a899-b68b45ec7784.png)
 
-## Menu Pauzy
 
 
 ## Przeciwnicy
 opossum
+
 ![image](https://user-images.githubusercontent.com/39299737/133622864-bc5e792f-88b3-4152-b28e-21aa6cdb5811.png)
 
 Mushroom
+
 ![image](https://user-images.githubusercontent.com/39299737/133622715-3f8f9072-279c-444f-a12e-4ab281604be0.png)
 ![image](https://user-images.githubusercontent.com/39299737/133622773-72922ba7-4d2f-4a31-a57b-254236b0cc49.png)
 
