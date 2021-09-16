@@ -7,6 +7,21 @@ Zrób to jak najszybciej i pochwal się swoim czasem.
 [Trailer](https://user-images.githubusercontent.com/45484392/133633744-38a8dd18-8473-4097-ba4c-912072ff45c9.mp4)
 ---
 
+
+[Link do gry](https://github.com/Caraczan/TheSlyFox/releases/tag/Beta-1)
+
+Instrukcja odpalania gry: 
+1. Wybrać gre dla odpowiedniego systemu operacyjnego
+  - windows dla systemu operacyjnego Windows
+  - linux dla systemów operacyjnych Linuxowych(np. Ubuntu, Manjaro, Debian, RHEL, ...) 
+  - macos dla  systemu operacyjengo MacOS
+2. Rozpakować projekt
+3. Odpalanie gier
+  - Dla Linuxa i Windowsa proszę odpalić:
+    - Linux: `TheSlyFox.x86_64`
+    - Windows: `TheSlyFox.exe`
+  - Dla Macos wystarczy przekopiować do folderu `Applications` i odpalić.
+
 ## Technologie użyte
 
 ### [Unity](https://unity.com/)
