@@ -10,7 +10,6 @@ https://user-images.githubusercontent.com/45484392/133619867-c8e29684-9b38-421f-
 
 
 
-![fox](https://user-images.githubusercontent.com/45484392/133621613-4885d7cc-298d-4dda-a3f4-c9c6668ebf3b.png)
 
 ## Technologie użyte
 
@@ -34,6 +33,9 @@ Strona hostująca repozytorium projektu, najpoppularniejsza na świecie zbiór r
 
 Najpopularniejszy komunikator dla zespołów deweloperskich.
 
+## Główny Bohater
+![fox](https://user-images.githubusercontent.com/45484392/133621613-4885d7cc-298d-4dda-a3f4-c9c6668ebf3b.png)
+
 
 ## Główne Menu
 
@@ -48,7 +50,7 @@ Mushroom
 ![image](https://user-images.githubusercontent.com/39299737/133622715-3f8f9072-279c-444f-a12e-4ab281604be0.png)
 ![image](https://user-images.githubusercontent.com/39299737/133622773-72922ba7-4d2f-4a31-a57b-254236b0cc49.png)
 
-## Mapa
+## Mapy
 
 ![ss1](https://user-images.githubusercontent.com/74363511/133623254-6bd7881c-a6b4-4f1a-83f2-b2890a02e9ea.png)
 ![ss2](https://user-images.githubusercontent.com/74363511/133623296-88cc0902-fce0-435a-8fef-c1efa77b5895.png)
