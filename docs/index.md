@@ -33,3 +33,19 @@ Strona hostująca repozytorium projektu, najpoppularniejsza na świecie zbiór r
 ![Slack](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/330px-Slack_Technologies_Logo.svg.png)
 
 Najpopularniejszy komunikator dla zespołów deweloperskich.
+
+
+## Główne Menu
+
+## Menu Pauzy
+
+
+## Przeciwnicy
+opossum
+![image](https://user-images.githubusercontent.com/39299737/133622864-bc5e792f-88b3-4152-b28e-21aa6cdb5811.png)
+
+Mushroom
+![image](https://user-images.githubusercontent.com/39299737/133622715-3f8f9072-279c-444f-a12e-4ab281604be0.png)
+![image](https://user-images.githubusercontent.com/39299737/133622773-72922ba7-4d2f-4a31-a57b-254236b0cc49.png)
+
+
