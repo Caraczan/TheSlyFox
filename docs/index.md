@@ -2,7 +2,9 @@
 
 Ucieknij biegnąc przez ogród. 
 Nie daj się złapać.
-Zrób to jak najszybciej i pochwal się znajomym.
+Zrób to jak najszybciej i pochwal się swoim czasem.
+
+https://user-images.githubusercontent.com/45484392/133618184-c37a7cd7-8ef0-4caf-822b-2230653c1049.mp4
 
 ## Technologie użyte
 
