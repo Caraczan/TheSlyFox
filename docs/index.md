@@ -48,4 +48,11 @@ Mushroom
 ![image](https://user-images.githubusercontent.com/39299737/133622715-3f8f9072-279c-444f-a12e-4ab281604be0.png)
 ![image](https://user-images.githubusercontent.com/39299737/133622773-72922ba7-4d2f-4a31-a57b-254236b0cc49.png)
 
+## Mapa
+
+![ss1](https://user-images.githubusercontent.com/74363511/133623254-6bd7881c-a6b4-4f1a-83f2-b2890a02e9ea.png)
+![ss2](https://user-images.githubusercontent.com/74363511/133623296-88cc0902-fce0-435a-8fef-c1efa77b5895.png)
+![ss3](https://user-images.githubusercontent.com/74363511/133623303-26b0d4cb-9bd8-4855-a2b6-a752e392cd6e.png)
+
+
 
