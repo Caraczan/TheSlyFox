@@ -2,16 +2,16 @@
 
 Ucieknij biegnąc przez ogród. 
 Nie daj się złapać.
-Zrób to jak najszybciej i pochwal się swoim czasem.
+Zrób to jak najszybciej i pochwal się swoim czasem.
 
 [Trailer](https://user-images.githubusercontent.com/45484392/133633744-38a8dd18-8473-4097-ba4c-912072ff45c9.mp4)
 ---
 
 
-[Link do gry](https://github.com/Caraczan/TheSlyFox/releases/tag/Beta-1)
+[Link do ściągnięcia gry](https://github.com/Caraczan/TheSlyFox/releases/tag/Beta-1)
 
 Instrukcja odpalania gry: 
-1. Wybrać gre dla odpowiedniego systemu operacyjnego
+1. Wybrać gre dla odpowiedniego systemu operacyjnego
   - windows dla systemu operacyjnego Windows
   - linux dla systemów operacyjnych Linuxowych(np. Ubuntu, Manjaro, Debian, RHEL, ...) 
   - macos dla  systemu operacyjengo MacOS
@@ -20,14 +20,14 @@ Instrukcja odpalania gry:
   - Dla Linuxa i Windowsa proszę odpalić:
     - Linux: `TheSlyFox.x86_64`
     - Windows: `TheSlyFox.exe`
-  - Dla Macos wystarczy przekopiować do folderu `Applications` i odpalić.
+  - Dla Macos wystarczy przekopiować do folderu `Applications` i odpalić.
 
 ## Technologie użyte
 
 ### [Unity](https://unity.com/)
 ![Unity](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Unity_Technologies_logo.svg/264px-Unity_Technologies_logo.svg.png)
 
-Silnik oraz edytor do gier 2D,3D i scen z dużą ilością przydatnych narzędzi.
+Silnik oraz edytor do gier 2D,3D i scen z dużą ilością przydatnych narzędzi.
 
 ### [Jira](https://www.atlassian.com/software/jira)
 ![jira](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jira_Software%402x-blue.png/375px-Jira_Software%402x-blue.png)
@@ -71,5 +71,30 @@ Mushroom
 ![ss2](https://user-images.githubusercontent.com/74363511/133623296-88cc0902-fce0-435a-8fef-c1efa77b5895.png)
 ![ss3](https://user-images.githubusercontent.com/74363511/133623303-26b0d4cb-9bd8-4855-a2b6-a752e392cd6e.png)
 
-
-
+# Lista zadań do zrobionych i niezriobionych
+- [x] gracz
+- [x] mapy
+- [x] ruch postaci
+- [x] przciwnicy    
+- [x] menu
+	- [x] nowa gra
+	- [ ] opcje
+		- [x] zmiana rozdzielczości(nie działa na Linuksie)
+		- [x] fullscreen/windowed
+		- [x] dźwięki
+		- [ ] zmiana sterowania
+	- [x] wychodzenie z gry
+- [x] pausemenu
+	- [x] działa
+	- [x] implementacja w nowych mapach
+- [x] liczenie czasu / poziom na ograniczony czas
+	- [x] licznik czasu działa
+	- [x] potrzebna implementacja graficzna
+- [x] przeciwnicy
+- [x] wyświetlanie poziomu
+- [x] życia
+- [x] punktacja
+- [x] znajdźki / monety
+- [x] stworzyć scene końca gry po ostatnim poziomie (częściowo dodane)
+- [x] stworzyć scene po śmierci gracza ? ew. zliczyć śmierć i teleportować gracza do początku poziomu (częściowo dodane)
+- [x] umieszczenie na mapie przeciwników
