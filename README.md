@@ -8,7 +8,7 @@ Zrób to jak najszybciej i pochwal się swoim czasem.
 ---
 
 
-[Link do gry](https://github.com/Caraczan/TheSlyFox/releases/tag/Beta-1)
+[Link do ściągnięcia gry](https://github.com/Caraczan/TheSlyFox/releases/tag/Beta-1)
 
 Instrukcja odpalania gry: 
 1. Wybrać gre dla odpowiedniego systemu operacyjnego
