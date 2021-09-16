@@ -4,7 +4,10 @@ Ucieknij biegnąc przez ogród.
 Nie daj się złapać.
 Zrób to jak najszybciej i pochwal się swoim czasem.
 
-https://user-images.githubusercontent.com/45484392/133618184-c37a7cd7-8ef0-4caf-822b-2230653c1049.mp4
+
+
+![Trailer](https://user-images.githubusercontent.com/45484392/133619867-c8e29684-9b38-421f-98bc-f9336b89195a.mp4)
+
 
 ## Technologie użyte
 
